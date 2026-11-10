@@ -1,0 +1,24 @@
+Naiwa laugh audio / motion reference
+
+Source: https://github.com/yugh6/Naiwa
+Reference project creator: yugh6 (抖音：握石竹，45357131546)
+Original file: 原版笑声.wav (unchanged PCM, 22050 Hz mono, 14.113469 seconds)
+Motion study: 素材.nwp laugh frames 0000–0421, 30 fps, used as visual reference.
+No reference video frames are displayed as the game's 3D character.
+
+The source project's attribution and redistribution notice remains applicable.
+Source notice: 分享请注明作者及原项目地址，禁止搬运冒充原创。如果需要用于短视频公开发布，请联系作者取得许可。未经许可请勿用于自媒体公域传播。
+
+The 3D mesh, keyframe reconstruction, town scene and game code in this site are
+new implementations. This is a fan-made study, not an official game or
+a claim of access to the original character's production model/rig.
+
+Three.js r180: MIT license at ../vendor/THREE-LICENSE.txt
+
+Transformation references consulted for the version-3 continuation:
+Niulai: https://naiwahub.com/zh/series/niu-lai
+Douyin reference discovery: https://www.douyin.com/video/7679023193641717011
+Models are newly constructed geometry; external image files are not distributed.
+Naigema muscle/face reference: https://naiwahub.com/zh/memes/dot-naiwa-0149
+Belly-laugh muscle reference: https://naiwahub.com/zh/memes/dot-naiwa-1036
+Forms are reconstructed meshes and choreography, not original production rigs.

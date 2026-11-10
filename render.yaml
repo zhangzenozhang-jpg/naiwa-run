@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: naiwa-run
+    runtime: static
+    buildCommand: test -f dist/index.html
+    staticPublishPath: ./dist
+    autoDeployTrigger: "off"
